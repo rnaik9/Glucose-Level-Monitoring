@@ -1,0 +1,12 @@
+Steps to run the Project:
+
+1.Start by installing the necessary packages and libraries for the project, either through pip or conda.The necessary packages for this project are pandas and lumpy.
+
+2.Download the dataset and save it in the directory where the main.py file is stored.
+
+3.Open the main.py file and run it.(Either through terminal or GUI)
+
+4.After running of the project a results.csv file is generated with the required results.
+
+5.Check and verify.
+
